@@ -1,0 +1,26 @@
+[
+    {
+      "id": 1,
+      "name": "Macbook Air M1",
+      "price": 10.99,
+      "imgUrl": "/imgs/m2.webp"
+    },
+    {
+      "id": 2,
+      "name": "Macbook Pro M1",
+      "price": 1199,
+      "imgUrl": "/imgs/m1.jpeg"
+    },
+    {
+      "id": 3,
+      "name": "Lenovo",
+      "price": 90.05,
+      "imgUrl": "/imgs/lenovo.webp"
+    },
+    {
+      "id": 4,
+      "name": "Macbook Air M2",
+      "price": 2000,
+      "imgUrl": "/imgs/m1.jpeg"
+    }
+  ]
